@@ -1,0 +1,12 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# macOS system files
+.DS_Store
+
+# Export builds
+export/
+*.apk
+*.exe
+*.dmg
